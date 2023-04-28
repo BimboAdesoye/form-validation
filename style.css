@@ -1,0 +1,10 @@
+.form {
+  outline: 1px solid rgb(214, 208, 208);
+  border-radius: 3px;
+  width: 50vw;
+}
+@media screen and (max-width: 786px) {
+  .form {
+    width: 75vw;
+  }
+}
